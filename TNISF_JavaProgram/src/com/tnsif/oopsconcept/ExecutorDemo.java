@@ -1,6 +1,6 @@
 package com.tnsif.oopsconcept;
 
-public class Executor {
+public class ExecutorDemo {
 
 	public static void main(String[] args) {
 		
